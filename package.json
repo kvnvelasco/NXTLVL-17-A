@@ -1,0 +1,14 @@
+{
+  "name": "nxtlvl-js-17",
+  "version": "1.0.0",
+  "description": "A repository of resources and slides for the NXTLVL JS class 2017",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md --theme solarized"
+  },
+  "author": "Kevin Velasco",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^0.4.2"
+  }
+}

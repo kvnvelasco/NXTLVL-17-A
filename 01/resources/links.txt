@@ -1,0 +1,13 @@
+1. install node (https://nodejs.org/en/)
+
+2. Install Git (https://gist.github.com/derhuerst/1b15ff4652a867391f03)
+
+3. Join Slack (https://join.slack.com/t/nxtlvl-js-17/shared_invite/enQtMjQ3NjkzMjA1ODE0LTZkOTExM2NmYjAyMTE2NGM5NmNiNmEyNTgwNTMyODZjZmQxMzJiODUyMzkzYTIwMTRlNjQ5ODlhZDk1OTJlNWQ)
+
+
+--- Learning Resources 
+
+
+1. Learn git interactively 
+  http://learngitbranching.js.org/
+
