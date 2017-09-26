@@ -1,0 +1,28 @@
+Variable Declaration
+
+var x = 1
+var x = 'string'
+
+Math:
+// +, - , *, /
+
+Logic:
+// <, <=, >, >=, ==, !=
+
+Function Declaration
+
+function name(x) {
+  return x
+}
+
+Function Call 
+name('name')
+
+Conditionals 
+
+if(x < 0) {
+ // do this if x is negative
+} else {
+ // do this oif x is positive
+}
+
