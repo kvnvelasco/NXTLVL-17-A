@@ -1,3 +1,24 @@
+## Describe the functions
+
+Listed below are 5 functions that perform a variety of tasks. 
+
+Your assignment is to translate these functions into english (or tagalog). You must describe every possible output of a function given it's input. 
+
+For example:
+
+Function: 
+
+```js
+function add(a, b) {
+  return a + b
+}
+```
+
+Answer:
+
+The function add takes two numbers and returns their sum.
+
+
 ### 1
 
 ```js
